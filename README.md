@@ -1,9 +1,12 @@
-# Aprendizado Básico - Curso de JavaScript
+# **Aprendizado em JavaScript**  
 
-## Conteúdo  
-- Conceitos básicos de JavaScript  
-- Manipulação de DOM  
-- Exercícios práticos  
+## **Conceitos que aprendi hoje**  
+- Fundamentos de JavaScript  
+- Manipulação do DOM  
+- Exercícios e exemplos práticos  
 
-## Observação  
-Este repositório foi criado para consolidar os conhecimentos adquiridos no curso.
+## **Por que fiz isso?**  
+Este repositório é onde registrei algumas coisas que explorei e pratiquei em JavaScript no Curso de hoje. 
+
+## **Aviso**  
+O conteúdo aqui reflete exatamente o que eu quis registrar. Não é um projeto em evolução, mas sim um registro do que aprendi ou quero guardar.
