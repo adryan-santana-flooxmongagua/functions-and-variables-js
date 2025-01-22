@@ -6,4 +6,4 @@
 - Exercícios práticos  
 
 ## Observação  
-Este repositório foi criado para consolidar os conhecimentos adquiridos no curso e servir como base para projetos futuros.  
+Este repositório foi criado para consolidar os conhecimentos adquiridos no curso.
